@@ -1,0 +1,69 @@
+/***************************Header*********************************/
+.navbar{
+    background-color: #a71313;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+}
+
+.search{
+    margin-left: 350px;
+    display: inline-block;
+}
+
+.inputSearch{
+    width: 500px;
+}
+
+.CS{
+    margin-left: 345px;
+}
+
+.nav-link{
+    font-weight: bold;
+}
+
+.logo{
+    height: 50px;
+    width: 50px;
+    margin-right: 40px;
+}
+
+/***************************Body*********************************/
+body {
+   background-color: purple;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background-color:#a71313;
+    color: white;
+}
+
+.formInscription{
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    text-align: center;    
+    line-height: 8px;
+}
+
+.submit
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+}
+.dropdown-toggle{
+    background-color: #a71313;
+}
+/***************************modelArticle**************************/
+.btn-primary{
+    color: white;
+    background-color: #a71313;
+    border-color: #a71313;
+}
+
+/***************************Footer*********************************/
